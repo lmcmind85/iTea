@@ -21,3 +21,6 @@ def dunkage():
     my_servo.throttle = 0.0
     time.sleep(1.0) 
     ```
+
+
+lcd.print()
